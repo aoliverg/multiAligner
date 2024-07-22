@@ -27,6 +27,6 @@ options:
 
 Use the script in the following way:
 
-```python3 multiAligner.py -l file-ladder-spa-fra.txt file-ladder-spa-ita.txt file-ladder-spa-por.txt file-ladder-spa-rom.txt file-ladder-spa-cat.txt file-ladder-spa-hrv.txt -f file-seg-spa.txt file-seg-fra.txt file-seg-ita.txt file-seg-por.txt file-seg-rom.txt file-seg-cat.txt file-seg-hrv.txt -o aligned-all.txt
+```python3 multiAligner.py -l file-ladder-spa-fra.txt file-ladder-spa-ita.txt file-ladder-spa-por.txt file-ladder-spa-rom.txt file-ladder-spa-cat.txt file-ladder-spa-hrv.txt -f file-seg-spa.txt file-seg-fra.txt file-seg-ita.txt file-seg-por.txt file-seg-rom.txt file-seg-cat.txt file-seg-hrv.txt -o aligned-all.txt```
 ```
 The file aligned-all is a tabbed text file with all the alignments.
